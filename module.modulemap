@@ -1,0 +1,5 @@
+module Dispatch [system] {
+    header "/usr/include/dispatch/dispatch.h"
+    link "Dispatch"
+    export *
+}
